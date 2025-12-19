@@ -23,6 +23,8 @@ otb client="8.60" version="3" id="20"
 to
 otb client="8.60" version="3" id="64"
 
+To avoid bugs and problems
+Create a blank map and then import your old map on it :D
 That's it.
 
 Btw.. If you are interested to use that spr with cip client, use the 860-cip branch :)
